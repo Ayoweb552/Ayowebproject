@@ -1,0 +1,53 @@
+
+h1 {
+    font-family: 'verdana';
+    color: white;
+    text-align: center;
+}
+input {
+    background-color: transparent;
+    align-items: bottom;
+    color: white;
+}
+
+p {
+    
+    font-family: 'verdana';
+    color: white;
+    text-align: center;
+}
+
+.Key.Lock {
+    height: 100px;
+    width: 100px;
+    
+}
+
+body {
+    background-image: linear-gradient( #0000ff85, skyblue);
+} 
+
+img {
+    height: 100px;
+    width: 100px;
+
+}
+
+input {
+    border: 3px solid rgba(255, 255, 255, 0.484);
+    block-size: 50px;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    place-content: center;
+}
+
+h1 {
+    border: 0px   transparent solid;
+    padding: 10px;
+    box-shadow: 5px 10px 9px #000000;
+    background-color: transparent
+    ;
+}
